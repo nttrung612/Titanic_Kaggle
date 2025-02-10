@@ -48,22 +48,16 @@ To enhance the predictive power of the model, the following features were engine
 Several machine learning models were evaluated:
 
 - Logistic Regression
+- KNN
 - Decision Tree Classifier
 - Random Forest Classifier
 - Support Vector Machine (SVM)
-- Gradient Boosting Classifier
+- Naive Bayes (GaussianNB)
+- AdaBoost
+- XGBoost
 
-After hyperparameter tuning and cross-validation, the Gradient Boosting Classifier provided the best performance.
+**After hyperparameter tuning and cross-validation, the - Support Vector Machine (SVM) provided the best performance.**
 
 ## Results
 
-The final model achieved an accuracy of **XX.XX%** on the test set, as evaluated by Kaggle's submission system.
-
-## Usage
-
-To reproduce the results:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/titanic-kaggle-competition.git
-   cd titanic-kaggle-competition
+The final model achieved an accuracy of **77.511%** on the test set, as evaluated by Kaggle's submission system.
