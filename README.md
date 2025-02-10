@@ -9,8 +9,6 @@ This repository contains my solution to Kaggle's [Titanic: Machine Learning from
 - [Feature Engineering](#feature-engineering)
 - [Modeling Approach](#modeling-approach)
 - [Results](#results)
-- [Usage](#usage)
-- [References](#references)
 
 ## Project Overview
 
